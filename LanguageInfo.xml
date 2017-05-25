@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageInfo>
-  <friendlyNameNative>English</friendlyNameNative>
-  <friendlyNameEnglish>English</friendlyNameEnglish>
+  <friendlyNameNative>Tagalog</friendlyNameNative>
+  <friendlyNameEnglish>Filipino</friendlyNameEnglish>
   <canBeTiny>true</canBeTiny>
-  <languageWorkerClass>LanguageWorker_English</languageWorkerClass>
+  <languageWorkerClass>LanguageWorker_Filipino</languageWorkerClass>
   <credits>
     <li Class="CreditRecord_Role">
       <roleKey>Credit_Writer</roleKey>
