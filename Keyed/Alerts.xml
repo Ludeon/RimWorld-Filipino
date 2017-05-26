@@ -19,13 +19,13 @@
   <NeedDefensesDesc>Matagal ka nang nasa lugar na ito at maaaring natagpuan ka na. Ang pagsalakay ng mga pirata ay malapit na magsimula.\n\nIka'y maghanda na ng pantanggol, ng mga patibong, mga sakong ng buhangin, o mga toresilya.</NeedDefensesDesc>
 
   <NeedDoctor>Kailangan ng doktor</NeedDoctor>
-  <NeedDoctorDesc>Ang mga kolonista ay nangangailangan ng tulong medikal, ngunit ika'y walang kolonistang nakatalaga bilang doktor.\n\n{0}\nAssign a healthy colonist to the Doctor work type. If left untreated, wounds may never heal properly and may become permanent.</NeedDoctorDesc>
+  <NeedDoctorDesc>Ang mga kolonista ay nangangailangan ng tulong medikal, ngunit ika'y walang kolonistang nakatalaga bilang doktor.\n\n{0}\nMagtalaga ng isang mabuting kolonista sa Doctor na work type. Pag iniwan nang hindi ginagamot, ang mga sugat ay maaaring hindi maghilom at maging permanente.</NeedDoctorDesc>
 
-  <NeedMiner>Need miner</NeedMiner>
-  <NeedMinerDesc>You have designated some rocks to be mined, but no colonist has the Mining work type.\n\nAssign a colonist the Mining work type.</NeedMinerDesc>
+  <NeedMiner>Kailangan ng minero</NeedMiner>
+  <NeedMinerDesc>Ika'y nagtalaga ng mga batong dapat minahin, ngunit walang kolonistang nakatalaga bilang minero.\n\nMagtalaga ng kolonista sa Miner na work type.</NeedMinerDesc>
 
-  <NeedWarden>Need warden</NeedWarden>
-  <NeedWardenDesc>You have a prisoner, but no colonist has the Warden work type.\n\nAssign a colonist the Warden work type.</NeedWardenDesc>
+  <NeedWarden>Kailangan ng tanod</NeedWarden>
+  <NeedWardenDesc>Ika'y mayroong mga bilanggo, ngunit walang kolonista na mayroong Warden na work type.\n\nAssign a colonist the Warden work type.</NeedWardenDesc>
 
   <LowFood>Low food</LowFood>
   <LowFoodDesc>You are dangerously low on food.\n\n    Full bars worth of food in storage: {0}\n    Colonists and prisoners getting food: {1}\n    Days worth of food in storage: {2}\n\nGrow, buy, find, or kill some food.</LowFoodDesc>
