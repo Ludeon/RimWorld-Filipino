@@ -16,10 +16,10 @@
   <ColonistsNeedRescueDesc>Ang mga kolonista ay hindi makagalaw at nasa lupa:\n\n{0}\nMagpadala ng kolonista nang sila'y maligtas at madala sila pabalik sa kanilang higaan.\n\n(Para magligtas, pumili ng isang kolonista, i-right click biktima at pindutin ang Rescue.</ColonistsNeedRescueDesc>
 
   <NeedDefenses>Kailangan ng pantanggol</NeedDefenses>
-  <NeedDefensesDesc>Matagal ka nang nasa lugar na ito at maaaring natagpuan ka na. Pirate raids will start soon.\n\nYou should prepare defenses, whether they're traps, sandbags, or turrets.</NeedDefensesDesc>
+  <NeedDefensesDesc>Matagal ka nang nasa lugar na ito at maaaring natagpuan ka na. Ang pagsalakay ng mga pirata ay malapit na magsimula.\n\nIka'y maghanda na ng pantanggol, ng mga patibong, mga sakong ng buhangin, o mga toresilya.</NeedDefensesDesc>
 
-  <NeedDoctor>Need doctor</NeedDoctor>
-  <NeedDoctorDesc>These colonists need medical care, but you have no healthy colonists assigned as doctors.\n\n{0}\nAssign a healthy colonist to the Doctor work type. If left untreated, wounds may never heal properly and may become permanent.</NeedDoctorDesc>
+  <NeedDoctor>Kailangan ng doktor</NeedDoctor>
+  <NeedDoctorDesc>Ang mga kolonista ay nangangailangan ng tulong medikal, ngunit ika'y walang kolonistang nakatalaga bilang doktor.\n\n{0}\nAssign a healthy colonist to the Doctor work type. If left untreated, wounds may never heal properly and may become permanent.</NeedDoctorDesc>
 
   <NeedMiner>Need miner</NeedMiner>
   <NeedMinerDesc>You have designated some rocks to be mined, but no colonist has the Mining work type.\n\nAssign a colonist the Mining work type.</NeedMinerDesc>
